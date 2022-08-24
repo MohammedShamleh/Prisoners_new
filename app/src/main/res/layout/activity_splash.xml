@@ -4,10 +4,10 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/background"
     android:gravity="center"
     android:orientation="vertical"
-    tools:context=".SplashActivity"
-    android:background="@color/background">
+    tools:context=".SplashActivity">
 
     <ImageView
         android:id="@+id/imageView"
@@ -21,8 +21,8 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
         android:fontFamily="cursive"
+        android:gravity="center"
         android:text="@string/intro"
-        android:textAlignment="center"
         android:textColor="@color/color_prim"
         android:textSize="32sp" />
 
@@ -32,8 +32,8 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
         android:fontFamily="cursive"
+        android:gravity="center"
         android:text="السلطة الفلسطينية"
-        android:textAlignment="center"
         android:textColor="@color/color_prim"
         android:textSize="24sp" />
 

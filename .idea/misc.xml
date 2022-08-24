@@ -4,10 +4,14 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/admin/Desktop/Prisoners_new/app/src/main/res/drawable/cv.xml" value="0.135" />
+        <entry key="..\:/Users/admin/Desktop/Prisoners_new/app/src/main/res/drawable/cv_white.xml" value="0.2075" />
         <entry key="..\:/Users/admin/Desktop/Prisoners_new/app/src/main/res/font/font.xml" value="0.1" />
-        <entry key="..\:/Users/admin/Desktop/Prisoners_new/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/admin/Desktop/Prisoners_new/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/admin/Desktop/Prisoners_new/app/src/main/res/layout/activity_report.xml" value="0.2" />
         <entry key="..\:/Users/admin/Desktop/Prisoners_new/app/src/main/res/layout/activity_salary.xml" value="0.33" />
         <entry key="..\:/Users/admin/Desktop/Prisoners_new/app/src/main/res/layout/activity_splash.xml" value="0.22" />
+        <entry key="..\:/Users/admin/Desktop/Prisoners_new/app/src/main/res/layout/activity_statistic.xml" value="0.16417272338606242" />
+        <entry key="..\:/Users/admin/Desktop/Prisoners_new/app/src/main/res/layout/test.xml" value="0.18" />
         <entry key="..\:/Users/ibn baz/AndroidStudioProjects/Prisoners_new/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1175" />
         <entry key="..\:/Users/ibn baz/AndroidStudioProjects/Prisoners_new/app/src/main/res/font/font.xml" value="0.23333333333333334" />
         <entry key="..\:/Users/ibn baz/AndroidStudioProjects/Prisoners_new/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
@@ -20,5 +24,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.33" />
+      </ProjectState>
+    </option>
   </component>
 </project>

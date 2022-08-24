@@ -1,4 +1,4 @@
-package com.example.prisoners_new;
+package com.example.prisoners_new.main_board;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.cardview.widget.CardView;
@@ -6,6 +6,10 @@ import androidx.cardview.widget.CardView;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
+
+import com.example.prisoners_new.R;
+import com.example.prisoners_new.main_board.cardView.salary;
+import com.example.prisoners_new.main_board.cardView.report;
 
 public class MainActivity extends AppCompatActivity  implements View.OnClickListener  {
     CardView salary, report, statistic, news;
@@ -37,19 +41,19 @@ public class MainActivity extends AppCompatActivity  implements View.OnClickList
         Intent i;
         switch (view.getId()) {
             case R.id.salary:
-                i = new Intent(this, salary.class);
+                i = new Intent(getApplicationContext(), salary.class);
                 startActivity(i);
                 break;
             case R.id.report:
-                i = new Intent(this, salary.class);
+                i = new Intent(getApplicationContext(), report.class);
                 startActivity(i);
                 break;
             case R.id.news:
-                i = new Intent(this,  salary.class);
+                i = new Intent(getApplicationContext(),  salary.class);
                 startActivity(i);
                 break;
             case R.id.statistic:
-                i = new Intent(this,  salary.class);
+                i = new Intent(getApplicationContext(),  salary.class);
                 startActivity(i);
                 break;
 

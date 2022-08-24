@@ -6,6 +6,8 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
 
+import com.example.prisoners_new.main_board.MainActivity;
+
 public class SplashActivity extends AppCompatActivity {
 
     @Override
@@ -21,6 +23,6 @@ public class SplashActivity extends AppCompatActivity {
                 startActivity(mainIntent);
                 finish();
             }
-        }, 3000);
+        }, 2000);
     }
 }

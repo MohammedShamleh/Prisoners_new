@@ -1,8 +1,10 @@
-package com.example.prisoners_new;
+package com.example.prisoners_new.main_board.cardView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.prisoners_new.R;
 
 public class statistic extends AppCompatActivity {
 
